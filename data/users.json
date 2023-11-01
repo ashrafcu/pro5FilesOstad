@@ -1,0 +1,22 @@
+{
+    "mail@abc.com": {
+        "username": "Manager",
+        "password": "123456",
+        "role": "admin"
+    },
+    "user2@gmail.com": {
+        "username": "User2",
+        "password": "123456",
+        "role": "user"
+    },
+    "user3@gmail.com": {
+        "username": "User3",
+        "password": "12345678",
+        "role": "user"
+    },
+    "myuser@gmail.com": {
+        "username": "myuser",
+        "password": "123456",
+        "role": "user"
+    }
+}

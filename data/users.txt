@@ -1,0 +1,4 @@
+admin, ashrafadmin, mail@ashraf.life, 123456
+user, User, mail@gmail.com, 123456
+admin, Manager, mail@abc.com, 123456
+user, hellouser, hellouser@gmail.com, 123456
